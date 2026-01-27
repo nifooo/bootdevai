@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 from google.genai import types
 from prompts import system_prompt
 from call_function import available_functions
+from call_function import function_result
 
 
 
